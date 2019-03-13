@@ -2,9 +2,15 @@
 
 Repository to hold and keep all my lighting talks and presentations.
 
-## What is it?
+## Structure
 
-Web app to create, share or download pixel art around the web.
+The current structure of the project can be see below, talks are separated by the major subject:
+
+- design-ux-ui: Design in general, user experience and user interface.
+- development-process: Development paradigms, agile methods and tools using at the development.
+- general-information: Non technical presentations.
+- mindset: Softskills in general.
+- programming: Languages, frameworks, libraries and more.
 
 ## Using
 
